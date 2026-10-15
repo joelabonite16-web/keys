@@ -1,0 +1,14 @@
+{
+  "name": "discord-whitelist-bot",
+  "version": "1.0.0",
+  "description": "Discord membership verification bot and API for Roblox script hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "express": "^4.21.1",
+    "cors": "^2.8.5"
+  }
+}
