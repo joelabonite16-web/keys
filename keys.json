@@ -1,17 +1,22 @@
 {
-  "SLIME-91F30E-F680DA-633CD3": {
-    "discordId": "1556344148015976485",
-    "robloxUsername": "test",
-    "updatedAt": "2026-10-15T14:25:40.645Z"
-  },
-  "KEY-F59651-8BD529-816EC6": {
-    "discordId": "1496751562192584744",
-    "robloxUsername": "Hafiy_123D",
-    "updatedAt": "2026-10-15T14:33:02.060Z"
-  },
-  "KEY-725CA3-EC2277-2CCD23": {
-    "discordId": "1474375787464360049",
-    "robloxUsername": "43124met",
-    "updatedAt": "2026-10-15T14:49:03.999Z"
-  }
+    "SLIME-91F30E-F680DA-633CD3": {
+        "discordId": "1556344148015976485",
+        "robloxUsername": "test",
+        "updatedAt": "2026-10-15T14:25:40.645Z"
+    },
+    "KEY-F59651-8BD529-816EC6": {
+        "discordId": "1496751562192584744",
+        "robloxUsername": "Hafiy_123D",
+        "updatedAt": "2026-10-15T14:33:02.060Z"
+    },
+    "KEY-725CA3-EC2277-2CCD23": {
+        "discordId": "1474375787464360049",
+        "robloxUsername": "43124met",
+        "updatedAt": "2026-10-15T14:49:03.999Z"
+    },
+    "KEY-7QSW-B1N2-K2H2-3BO3": {
+        "discordId": "1556344148015976485",
+        "robloxUsername": "Pending",
+        "updatedAt": "2026-10-16T01:33:42.375660+00:00"
+    }
 }
